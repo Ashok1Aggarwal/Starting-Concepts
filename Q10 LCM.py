@@ -1,6 +1,4 @@
-# Python Program to find the L.C.M. of two input number
-
-def compute_lcm():
+def computing_lcm():
 
    x = int(input("Enter a number       : "))
    y = int(input("Enter another number :"))
@@ -17,4 +15,4 @@ def compute_lcm():
 
    return lcm
 
-print("The L.C.M. is", compute_lcm())
+print("The L.C.M. is", computing_lcm())
