@@ -3,6 +3,10 @@
 Feel free to contact me for issue 
 yes, you can use any file needed(reason there is no licensing)
 
+
+To download the file for these questions copy, paste this link in your browser:
+
+http://www.du.ac.in/uploads/RevisedSyllabi1/Annexure-86.%20(Comp-Sc-GE).pdf
 {QUESTION}
 
 2. Write a Python function to produce the outputs such as:
