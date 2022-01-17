@@ -1,5 +1,5 @@
 # Starting-Concepts
-#Hello there, these are the basic codes I am writting for my introduction to python class in Delhu University as batch of 2024, 
+#Hello there, these are the basic codes I am writting for my introduction to python class in Delhi University as batch of 2024, 
 Feel free to contact me for issue 
 yes, you can use any file needed(reason there is no licensing)
 
